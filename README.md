@@ -19,32 +19,13 @@
 
 ---
 
-### 🔥 Top Contributed Repositories
-
-<p align="left">
-  <a href="https://github.com/parasohri/AICHATAPPWITHINBUILTWEBCONTAINER">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=parasohri&repo=AICHATAPPWITHINBUILTWEBCONTAINER&theme=radical" alt="AI Chat App"/>
-  </a>
-  <a href="https://github.com/parasohri/himarogya">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=parasohri&repo=himarogya&theme=radical" alt="E-Health Platform"/>
-  </a>
-  <a href="https://github.com/parasohri/task-manger">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=parasohri&repo=task-manger&theme=radical" alt="Task Manager"/>
-  </a>
-  <a href="https://github.com/parasohri/vlog-website-react">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=parasohri&repo=vlog-website-react&theme=radical" alt="Blog Website"/>
-  </a>
-</p>
-
----
-
 ### 👨‍💻 About Me
 
 - 🏫 **B.Tech in Computer Science Engineering**  
   Atal Bihari Vajpayee Govt. Institute of Engineering and Technology (2022 – Present)
 - 🌐 Passionate full-stack developer and AI enthusiast
 - 🚀 Building scalable, real-time apps with a focus on user experience, security, and modern web technologies
-
+- 💡  I'm skilled in Docker, Kubernetes, the MERN stack, and Next.js, with a strong passion for Web Development and DevOps. Lately, I've been diving into Generative AI—exploring how it intersects with full-stack development and automation. Feel free to ask me about tech, projects, or anything AI-driven!
 ---
 
 ### 🛠️ Tech Stack
@@ -62,6 +43,9 @@
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)
 ![Fastify](https://img.shields.io/badge/-Fastify-000000?logo=fastify&logoColor=white)
+![MERN](https://img.shields.io/badge/-MERN-3FA037?logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 
 **Databases & Tools:**  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
