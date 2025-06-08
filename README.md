@@ -1,6 +1,6 @@
 # Hi there, I’m Paras Ohri! 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/parasohri)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/paras-ohri-76a44b190/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square)](https://github.com/parasohri)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:ohriparas2005@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-8278821607-green?style=flat-square)](tel:+918278821607)
