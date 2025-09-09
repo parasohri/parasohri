@@ -66,13 +66,7 @@
 
  
 
-### 🏆 Achievements
-
-- 🥇 First Place – State Level Hackathon @ Hydro Engineering College  
-  [Winner Certificate](https://drive.google.com/file/d/1QfvVeOp2aUDMSBQ-2EmAnpABelAFAsTW/view?usp=drivesdk)
-- 🥇 First Place – College Level Hackathon @ ABVGIET College
-
----
+ 
 
 ### 📬 Get in Touch
 
