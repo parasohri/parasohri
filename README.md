@@ -64,45 +64,7 @@
 
 ---
 
-### 💼 Experience
-
-**Web Developer Intern** — OctaNet Services Pvt Ltd  
-_Mar 2024 – Apr 2024_  
-• Developed a fully functional e-commerce website  
-• Integrated payment gateway and optimized UI/UX
-
-**SDE Intern** — ThinkNext Technologies Pvt Ltd  
-_Jun 2024 – Aug 2024_  
-• Built a real-time web app using **WebSockets** for live data updates  
-• Integrated **Generative AI** for smart responses and automation  
-• Used **React.js, Next.js, and Express.js** in the stack  
-• Focused on performance, API security, and smooth UX
-
----
-
-### 🚀 Notable Projects
-
-- **AI-Driven Chat App with Integrated WebContainers**  
-  [GitHub Repo](https://github.com/parasohri/AICHATAPPWITHINBUILTWEBCONTAINER) | [Demo Video](https://youtu.be/s3tgEeDgao8?si=4Di2wPyeE4fMCNEe)  
-  Contextual chat using **Gemini AI** and browser-executed Node.js via WebContainers. Scalable backend with **Fastify**, real-time updates via **Socket.io**.
-
-- **E-Health Platform for Remote Areas**  
-  [GitHub Repo](https://github.com/parasohri/himarogya) | [Live App](https://hackathontesting-1-l1av.onrender.com/) | [Demo Video](https://youtu.be/OtUa5o42RfU?si=PGZcEF7dJT8vqQct)  
-  Doctor-patient interactions with **WebRTC** and **Socket.io**. Dynamic health record system (**MongoDB**), AI-powered **speech-to-text**, and **JWT-based authentication**.
-
-- **Timetable Chatbot**  
-  [GitHub Repo](https://github.com/parasohri/chatboxtimetablebackend) | [Live App](http://chatboxtimetablefrontend.vercel.app/)  
-  Fastify backend + React.js frontend. NLP-style chat input parsing for schedule queries.
-
-- **Task Manager App**  
-  [GitHub Repo](https://github.com/parasohri/task-manger) | [Live App](http://task-manger-frontend-xi.vercel.app/)  
-  REST APIs with **Fastify**, JWT auth, real-time updates, and persistent data with **MongoDB**.
-
-- **Blog Website**  
-  [GitHub Repo](https://github.com/parasohri/vlog-website-react)  
-  User authentication and role-based access control with **Appwrite BaaS**. Real-time CRUD on posts, comments, and tags.
-
----
+ 
 
 ### 🏆 Achievements
 
