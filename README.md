@@ -22,7 +22,7 @@
 ### 👨‍💻 About Me
 
 - 🏫 **B.Tech in Computer Science Engineering**  
-  Atal Bihari Vajpayee Govt. Institute of Engineering and Technology (2022 – Present)
+  Atal Bihari Vajpayee Govt. Institute of Engineering and Technology (2022 – 2026)
 - 🌐 Passionate full-stack developer and AI enthusiast
 - 🚀 Building scalable, real-time apps with a focus on user experience, security, and modern web technologies
 - 💡  I'm skilled in Docker, Kubernetes, the MERN stack, and Next.js, with a strong passion for Web Development and DevOps. Lately, I've been diving into Generative AI—exploring how it intersects with full-stack development and automation. Feel free to ask me about tech, projects, or anything AI-driven!
